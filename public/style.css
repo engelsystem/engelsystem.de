@@ -6167,5 +6167,6 @@ body {
   padding-top: 50px;
 }
 #jumbotron-instance-feature {
-  background: #000;
+  background: #000000 url('img/31c3_bg.jpg');
+  background-size: 100%;
 }
