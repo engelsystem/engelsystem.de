@@ -6166,3 +6166,6 @@ button.close {
 body {
   padding-top: 50px;
 }
+#jumbotron-instance-feature {
+  background: #ffffff url('img/cccamp15_bg.png');
+}
