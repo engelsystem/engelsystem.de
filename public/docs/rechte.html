@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>ENGELSYSTEM - Rechte</title>
+  <link rel="stylesheet" type="text/css" href="../style.css">
+  <style>
+  * {
+    max-width: 20cm;
+  }
+  </style>
+ </head>
+<body>
+<h1>Access Rights in the Engelsystem</h1>
+The Engelsystem has a large amount of different access rights that gain the user
+access to specific functions. While assigning these rights directly to users
+would allow a very fine granulation of access rights it would be hard to
+maintain. To make it easier for the beaurocrats to assign the correct rights to
+users the Engelsystem uses a role model called "group rights". 
+
+Such a group is a caollection of multiple rights that allow a user to fulfil a
+specific function. With a default installation of the Engelsystem the following
+group rights will be created:
+
+<ul>
+<li>1-Gast</li>
+<li>2-Engel</li>
+<li>Shirt-Manager</li>
+<li>3-Shift Coordinator</li>
+<li>4-Team Coordinator</li>
+<li>5-Bürokrat</li>
+<li>6-Developer</li>
+</ul>
+
+<h2>1-Gast</h2>
+This is the guest role. It has the least amount of privileges and it's prupose
+is to give access to those functions needed to create a user in the Engelsystem
+(self-registration):
+
+
+<h3>Rights gained from this role</h3>
+<ul>
+<li><b>register</b> - Einen neuen Engel registerieren</li>
+<li><b>login</b> - Logindialog</li>
+<li><b>start</b> - Startseite für Gäste/Nicht eingeloggte User</li>
+</ul>
+
+<h2>2-Engel</h2>
+This is the group all registered users are assigned to. It contains all rights
+required to be able to be an Angel.
+
+<h3>Rights gained from this role</h3>
+<ul>
+<li><b>user_angeltypes</b> - Join angeltypes.</li>
+<li><b>angeltypes</b> - View angeltypes</li>
+<li><b>shifts_json_export</b> - Export shifts in JSON format</li>
+<li><b>atom</b> - Atom news export</li>
+<li><b>ical</b> - iCal shift export</li>
+<li><b>user_myshifts</b> - Allow angels to view their own shifts and cancel them.</li>
+<li><b>user_shifts</b> - Signup for shifts</li>
+<li><b>user_meetings</b> - Lists meetings (news)</li>
+<li><b>news_comments</b> - User can comment news</li>
+<li><b>user_questions</b> - Let users ask questions</li>
+<li><b>user_messages</b> - Writing and reading messages from user to user</li>
+<li><b>user_settings</b> - User profile settings</li>
+<li><b>logout</b> - User darf sich ausloggen</li>
+<li><b>news</b> - Anzeigen der News-Seite</li>
+</ul>
+
+<h2>Shirt Manager</h2>
+Shirt Managers are those users that hand out the T-Shirts that helpers get to
+thank them for their work. They have additonal right to see, whether another
+user is eligible to get a shirt and set a marker if the helper has already
+received the shirt.
+
+<h3>Rights gained from this role</h3>
+<ul>
+<li><b>admin_active</b> - Mark angels as active and if they got a t-shirt.</li>
+</ul>
+
+<h2>3-Shift Coordinator</h2>
+
+Shift coordinators are those helpers trying to organize the other heplers. On a
+chaos event these are those angels that are located in heaven behind heavens
+desk. They setup shifts, news and meetings in the Engelsystem. 
+
+<h3>Rights gained from this role</h3>
+<ul>
+<li><b>admin_event_config</b> - Allow editing event config</li>
+<li><b>admin_free</b> - Show a list of free/unemployed angels.</li>
+<li><b>admin_shifts</b> - Create shifts</li>
+<li><b>admin_arrive</b> - Mark angels when they arrive.</li>
+<li><b>user_shifts_admin</b> - Signup other angels for shifts.</li>
+<li><b>admin_log</b> - Display recent changes</li>
+<li><b>admin_user</b> - Administrate the angels</li>
+<li><b>admin_news</b> - Administrate the news section</li>
+<li><b>register</b> - Einen neuen Engel registerieren</li>
+</ul>
+
+<h2>4-Team Coordinator</h2>
+Team Coordinators organize groups of angels that do very specific tasks. They
+can give angels access to restricted angel types and create news and meetings to
+announce introductions required to join restricted angeltypes.
+
+<h3>Rights gained from this role</h3>
+<ul>
+<li><b>admin_user_angeltypes</b> - Confirm restricted angel types</li>
+<li><b>user_shifts_admin</b> - Signup other angels for shifts.</li>
+<li><b>admin_news</b> - Administrate the news section</li>
+</ul>
+
+<h2>5-Bürokrat</h2>
+Bureaucrats have permissions to create most of the event setup to enable other
+functions. They setup the rooms, angeltypes, shifttypes and other basic
+information for the event. 
+
+Additionally they have the right to assign the access rights to others. 
+
+<h3>Rights gained from this role</h3>
+<ul>
+<li><b>shifttypes</b> - Administrate shift types</li>
+<li><b>admin_user_angeltypes</b> - Confirm restricted angel types</li>
+<li><b>admin_active</b> - Mark angels as active and if they got a t-shirt.</li>
+<li><b>admin_shifts</b> - Create shifts</li>
+<li><b>admin_import</b> - Import rooms and shifts from pentabarf</li>
+<li><b>admin_user</b> - Administrate the angels</li>
+<li><b>admin_news</b> - Administrate the news section</li>
+<li><b>admin_faq</b> - Edit FAQs</li>
+<li><b>admin_questions</b> - Answer user''s questions</li>
+<li><b>admin_angel_types</b> - Engel Typen administrieren</li>
+<li><b>admin_rooms</b> - Räume administrieren</li>
+<li><b>register</b> - Einen neuen Engel registerieren</li>
+</ul>
+
+<h2>6-Developer</h2>
+Developers have access to some very special functions, like editing the
+grouprights describes in this document, or bulk import data. 
+
+<h3>Rights gained from this role</h3>
+<ul>
+<li><b>admin_import</b> - Import rooms and shifts from pentabarf</li>
+<li><b>admin_language</b> - Translate the system</li>
+<li><b>admin_groups</b> - Manage usergroups and their rights</li>
+</ul>
+
+</body>
+</html>
