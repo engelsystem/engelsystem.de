@@ -18,8 +18,8 @@
       </div>
       <div class="collapse navbar-collapse" id="navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          <li class="active"><a class="navbar-link" href="https://engelsystem.de/index_en.html">English</a></li>
-          <li><a class="navbar-link" href="https://engelsystem.de/index.html">Deutsch</a></li>
+          <li class="active"><a class="navbar-link" href="https://engelsystem.de/index_en.php">English</a></li>
+          <li><a class="navbar-link" href="https://engelsystem.de/index.php">Deutsch</a></li>
 					<li><a href="#imprint">Imprint</a></li>
         </ul>
       </div>
