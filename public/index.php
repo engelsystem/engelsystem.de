@@ -25,6 +25,12 @@
       </div>
     </div>
   </nav>
+  <div class="jumbotron">
+    <div class="container">
+      <p class="text-center">Hilf uns das Chaos Communication Camp 2019 zu einem übertrieben tollen Event zu machen und werde Engel!</p>
+      <p class="text-center"><a class="btn btn-success btn-lg" href="https://camp.engelsystem.de">Zum #cccamp19 <span class="icon-icon_angel"></span> ENGELSYSTEM</a></p>
+    </div>
+  </div>
   <div class="container">
     <div class="col-md-12 text-center">
       <h1>Online-Tool für Helfer- und Schichtplanung auf großen Events</h1>
