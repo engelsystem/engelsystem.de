@@ -25,10 +25,11 @@
       </div>
     </div>
   </nav>
-  <div class="jumbotron">
+  <div class="jumbotron" style="background: #000;">
     <div class="container">
-      <p class="text-center">Hilf uns das Chaos Communication Camp 2019 zu einem übertrieben tollen Event zu machen und werde Engel!</p>
-      <p class="text-center"><a class="btn btn-success btn-lg" href="https://camp.engelsystem.de">Zum #cccamp19 <span class="icon-icon_angel"></span> ENGELSYSTEM</a></p>
+      <p class="text-center"><img src="img/36c3_logo.png" alt="36c3 logo" /></p>
+      <p class="text-center" style="color: #D0D0CE;">Hilf uns den 36. Chaos Communication Congress (36c3) zu einem tollen Event für alle zu machen und werde Engel!</p>
+      <p class="text-center"><a class="btn btn-success btn-lg" style="background-color: #FE5000; color: #000; border-color: #FE5000;" href="https://engelsystem.de/36c3/">36c3 <span class="icon-icon_angel"></span> ENGELSYSTEM</a></p>
     </div>
   </div>
   <div class="container">
