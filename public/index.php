@@ -39,7 +39,7 @@
       <p>
         <a class="btn btn-primary" href="https://github.com/engelsystem/engelsystem"><span class="icon-icon_angel"></span> <strong>ENGELSYSTEM</strong> Installation (GitHub) </a>
       </p>
-      <p class="text-muted">ab PHP 7.1 und MySQL &gt;=5.6 oder MariaDB &gt;=10.0</p>
+      <p class="text-muted">ab PHP 7.2 und MySQL &gt;=5.7 oder MariaDB &gt;=10.2.2</p>
     </div>
     <div class="row">
       <div class="col-md-4">
