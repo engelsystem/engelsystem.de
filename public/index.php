@@ -27,9 +27,9 @@
   </nav>
   <div class="jumbotron" style="background: #000;">
     <div class="container">
-      <p class="text-center"><img src="img/36c3_logo.png" alt="36c3 logo" /></p>
-      <p class="text-center" style="color: #D0D0CE;">Hilf uns den 36. Chaos Communication Congress (36c3) zu einem tollen Event für alle zu machen und werde Engel!</p>
-      <p class="text-center"><a class="btn btn-success btn-lg" style="background-color: #FE5000; color: #000; border-color: #FE5000;" href="https://engelsystem.de/36c3/">36c3 <span class="icon-icon_angel"></span> ENGELSYSTEM</a></p>
+      <p class="text-center"><img src="img/rc3_logo.png" style="width: 200px; height: 200px" alt="rc3 logo" /></p>
+      <p class="text-center" style="color: #fff;">Hilf uns den rC3 zu einer tollen virtuellen Experience für alle zu machen und werde Engel!</p>
+      <p class="text-center"><a class="btn btn-success btn-lg" style="background-color: #6800e7; color: #fff; border-color: #b239ff;" href="rc3">rC3 <span class="icon-icon_angel"></span> ENGELSYSTEM</a></p>
     </div>
   </div>
   <div class="container">
