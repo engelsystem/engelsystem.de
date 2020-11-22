@@ -39,7 +39,7 @@
       <p>
         <a class="btn btn-primary" href="https://github.com/engelsystem/engelsystem"><span class="icon-icon_angel"></span> <strong>ENGELSYSTEM</strong> installation (GitHub) </a>
       </p>
-      <p class="text-muted">PHP &gt;=7.2 and MySQL &gt;=5.7 or MariaDB &gt;=10.2.2</p>
+      <p class="text-muted">PHP &gt;=7.4 and MySQL &gt;=5.7 or MariaDB &gt;=10.2.2</p>
     </div>
     <div class="row">
       <div class="col-md-4">
@@ -49,7 +49,7 @@
           <li>Available in German and English (translatable)</li>
           <li>Supports any event size: from a few dozen helpers to thousands</li>
           <li>Comprehensive shift overview with filters</li>
-          <li>Import shifts from <a href="https://frab.cccv.de/">Frab</a></li>
+          <li>Import shifts from multiple instances of <a href="https://frab.cccv.de/">Frab</a> or <a href="https://pretalx.com/">pretalx</a></li>
           <li>Export shifts to iCal</li>
           <li>Presence management</li>
           <li>Reward system</li>
@@ -57,6 +57,7 @@
           <li>Question and answer system</li>
           <li>Team descriptions in Markdown</li>
           <li>Detailed log about all changes</li>
+          <li>OAuth 2 Support (Open ID Connect) with multiple identity providers</li>
         </ul>
       </div>
       <div class="col-md-4" style="opacity: 0.3;">

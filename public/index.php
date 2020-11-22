@@ -39,7 +39,7 @@
       <p>
         <a class="btn btn-primary" href="https://github.com/engelsystem/engelsystem"><span class="icon-icon_angel"></span> <strong>ENGELSYSTEM</strong> Installation (GitHub) </a>
       </p>
-      <p class="text-muted">ab PHP 7.2 und MySQL &gt;=5.7 oder MariaDB &gt;=10.2.2</p>
+      <p class="text-muted">ab PHP 7.4 und MySQL &gt;=5.7 oder MariaDB &gt;=10.2.2</p>
     </div>
     <div class="row">
       <div class="col-md-4">
@@ -49,7 +49,7 @@
           <li>Auf Deutsch und Englisch (Erweiterbar)</li>
           <li>Skaliert problemlos auf tausende Helfer und zehntausende Schichtstunden</li>
           <li>Komplexe Schicht-Ansicht mit Filter</li>
-          <li><a href="https://frab.cccv.de/">Frab</a>-Import für Schichten</li>
+          <li>Importiere Schichten aus mehreren <a href="https://frab.cccv.de/">Frab</a>- oder <a href="https://pretalx.com/">pretalx</a>-Instanzen</li>
           <li>iCal-Export für Schichten</li>
           <li>Anwesenheits-Management</li>
           <li>Belohnungssystem</li>
@@ -57,6 +57,7 @@
           <li>Frage-/Antwortsystem</li>
           <li>Markdown Team-Beschreibung</li>
           <li>Detailliertes Log über jede Änderung</li>
+          <li>OAuth 2 Support (Open ID Connect) mit mehreren Identity-Providern</li>
         </ul>
       </div>
       <div class="col-md-4" style="opacity: 0.3;">
