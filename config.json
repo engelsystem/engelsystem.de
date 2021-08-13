@@ -1,0 +1,129 @@
+{
+  "title": "Engelsystem",
+  "languages": {
+    "en": "English",
+    "de": "Deutsch"
+  },
+  "pages": {
+    "/": {
+      "language": "de",
+      "languages": { "en": "/en" },
+      "subtitle": "Online-Tool für Helfer- und Schichtplanung auf großen Events",
+      "content": [
+        {
+          "centered": true,
+          "title": "Online-Tool für Helfer- und Schichtplanung auf großen Events",
+          "content": "Organisiere deine Helfer in Teams, teile sie in Schichten ein oder lasse sie selbst bestimmen, wann und wo sie helfen wollen.",
+          "button": {
+            "text": "Engelsystem Installation (GitHub)",
+            "link": "https://github.com/engelsystem/engelsystem#readme",
+            "angel": true
+          },
+          "footer": "ab PHP 7.4 und MySQL >=5.7 oder MariaDB >=10.2.2"
+        },
+        {
+          "size": 6,
+          "title": "Features",
+          "list": [
+            "Verwaltung von Helfern, Teams, Räumen, Schichten, News und Meetings",
+            "Auf Deutsch und Englisch (Erweiterbar)",
+            "Skaliert problemlos auf tausende Helfer und zehntausende Schichtstunden",
+            "Komplexe Schicht-Ansicht mit Filter",
+            "Importiere Schichten aus mehreren <a href=\"https://frab.cccv.de\">Frab</a>- oder <a href=\"https://pretalx.com\">pretalx</a>-Instanzen",
+            "iCal-Export für Schichten",
+            "Anwesenheits-Management",
+            "Belohnungssystem",
+            "Nachrichtensystem",
+            "Frage-/Antwortsystem",
+            "Markdown Team-Beschreibung",
+            "Detailliertes Log über jede Änderung",
+            "OAuth 2 Support (Open ID Connect) mit mehreren Identity-Providern"
+          ]
+        },
+        {
+          "size": 6,
+          "title": "Kontakt",
+          "content": [
+            "Wenn du einen Softwarefehler entdeckt oder Probleme bei der Installation deines eigenen Engelsystems hast, öffne bitte einen Issue auf Github unter:\n<a href=\"https://github.com/engelsystem/engelsystem/issues\">github.com/engelsystem/engelsystem</a>",
+            "Wenn du ein Engelsystem für ein Chaos-Event benötigst, sende eine E-Mail an:\n<a href=\"mailto:contact@engelsystem.de\">contact@engelsystem.de</a>"
+          ]
+        },
+        {
+          "size": 6,
+          "title": "Referenzen",
+          "reference": true
+        }
+      ]
+    },
+    "/en": {
+      "language": "en",
+      "size": 6,
+      "languages": { "de": "/" },
+      "subtitle": "online tool for coordinating helpers and work shifts on large events",
+      "content": [
+        {
+          "size": 12,
+          "centered": true,
+          "title": "Online tool for coordinating helpers and shifts on large events",
+          "content": "Coordinate your helpers in teams, assign them to work shifts or let them decide for themselves when and where they want to help with what.",
+          "button": {
+            "text": "Engelsystem installation (GitHub)",
+            "link": "https://github.com/engelsystem/engelsystem#readme",
+            "angel": true
+          },
+          "footer": "PHP >=7.4 and MySQL >=5.7 or MariaDB >=10.2.2"
+        },
+        {
+          "title": "Features",
+          "list": [
+            "Manage helpers, teams, rooms, shifts, news and meetings",
+            "Available in English and German (translatable)",
+            "Supports any event size: from a few dozen helpers to thousands",
+            "Comprehensive shift overview with filters",
+            "Import shifts from multiple instances of <a href=\"https://frab.cccv.de\">Frab</a> or <a href=\"https://pretalx.com\">pretalx</a>",
+            "Export shifts to iCal",
+            "Presence management",
+            "Reward system",
+            "Messaging system",
+            "Question and answer system",
+            "Team descriptions in Markdown",
+            "Detailed log about all changes",
+            "OAuth 2 Support (Open ID Connect) with multiple identity providers"
+          ]
+        },
+        {
+          "title": "Contact",
+          "content": [
+            "If you find a software bug, or have a problem with installing your own angelsystem, please open an issue on Github:\n<a href=\"https://github.com/engelsystem/engelsystem/issues\">github.com/engelsystem/engelsystem</a>",
+            "If you need an angelsystem for a Chaos event, please e-mail:\n<a href=\"mailto:contact@engelsystem.de\">contact@engelsystem.de</a>"
+          ]
+        },
+        {
+          "title": "References",
+          "reference": true
+        }
+      ]
+    }
+  },
+  "references": [
+    {"name": "21C3 - 28C3, Berlin"},
+    {"name": "29C3 - 29. Chaos Communication Congress, Hamburg", "angels": 511, "link": "https://events.ccc.de/congress/2012/"},
+    {"name": "Sigint 2013", "angels": 43, "link": "http://sigint.ccc.de/"},
+    {"name": "30C3 - 30. Chaos Communication Congress, Hamburg", "angels": 1044, "link": "https://events.ccc.de/congress/2013/"},
+    {"name": "Easterhegg 2014, Stuttgart", "angels": 111, "link": "http://eh14.easterhegg.eu/"},
+    {"name": "MRMCD14 - MetaRheinMainConstructionDays 2014, Darmstadt", "angels": 41, "link": "https://mrmcd.net/"},
+    {"name": "Hackover 2014, Hannover", "angels": 35, "link": "http://hackover.de/"},
+    {"name": "31C3 - 31. Chaos Communication Congress, Hamburg", "angels": 1470, "link": "https://events.ccc.de/congress/2014/"},
+    {"name": "Easterhegg 2015, Braunschweig", "angels": 99, "link": "http://eh15.easterhegg.eu/"},
+    {"name": "cccamp15 - Chaos Communication Camp 2015", "angels": 1130, "link": "https://events.ccc.de/camp/2015/wiki/Main_Page"},
+    {"name": "32C3 - 32. Chaos Communication Congress, Hamburg", "angels": 1785, "link": "https://events.ccc.de/congress/2015/wiki/Main_Page"},
+    {"name": "33C3 - 33. Chaos Communication Congress, Hamburg", "angels": 2576, "link": "https://events.ccc.de/congress/2016/wiki/Main_Page"},
+    {"name": "Easterhegg 2017, Mühlheim am Main", "angels": 193, "link": "https://eh17.easterhegg.eu/"},
+    {"name": "FrOSCon 2017, Sankt Augustin", "angels": 102, "link": "https://www.froscon.de/"},
+    {"name": "Volunteer Program, MozFest 2017, London", "angels": "~100", "link": "https://mozillafestival.org/"},
+    {"name": "34C3 - 34. Chaos Communication Congress, Leipzig", "angels": 2387, "link": "https://events.ccc.de/congress/2017/wiki/Main_Page"},
+    {"name": "35C3 - 35. Chaos Communication Congress, Leipzig", "angels": 4204, "link": "https://events.ccc.de/congress/2018/wiki/Main_Page"},
+    {"name": "36C3 - 36. Chaos Communication Congress, Leipzig", "angels": 4683, "link": "https://events.ccc.de/congress/2019/wiki/index.php/Main_Page"},
+    {"name": "rC3 - remote Chaos Experience, Online", "angels": 710, "link": "https://links.rc3.world"}
+  ]
+}
