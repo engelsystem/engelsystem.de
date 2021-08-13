@@ -1,0 +1,16 @@
+{
+    "name": "engelsystem/engelsystem.de",
+    "description": "#",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "5.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Engelsystem\\Website\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}

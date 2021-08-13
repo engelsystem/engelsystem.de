@@ -1,0 +1,14 @@
+.icon-icon_angel {
+    background-color: black;
+
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+
+    mask: url(../img/angel.svg) no-repeat 50% 50%;
+    mask-size: cover;
+}
+
+img.cta {
+    max-width: 20%;
+}

@@ -1,5 +1,21 @@
-imprint.html
+# Cache files
+*~
+.~*
+*.tmp
+*.temp
+*.DS_Store
+.*.swp
+*.out
+Thumbs.db
 
-.buildpath
-.settings
-.project
+# IDE files
+/.idea/
+
+# External resources
+/vendor/
+
+# Project files
+/config-local.json
+/content/
+!/content/.gitkeep
+/html/
