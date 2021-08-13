@@ -101,6 +101,14 @@
             <th class="text-right"><span class="icon-icon_angel"></span> Angels</th>
             <th>Event</th>
           </tr>
+            <tr>
+                <td class="text-right">710</td>
+                <td><a href="https://links.rc3.world/">rC3 - remote Chaos Experience, Online</a></td>
+            </tr>
+            <tr>
+                <td class="text-right">4.683</td>
+                <td><a href="https://events.ccc.de/congress/2019/wiki/index.php/Main_Page">36C3 - 36. Chaos Communication Congress, Leipzig</a></td>
+            </tr>
           <tr>
             <td class="text-right">4.204</td>
             <td><a href="https://events.ccc.de/congress/2018/wiki/Main_Page">35C3 - 35. Chaos Communication Congress, Leipzig</a></td>
