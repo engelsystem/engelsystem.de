@@ -25,6 +25,7 @@
       </div>
     </div>
   </nav>
+  <!--
   <div class="jumbotron" style="background: #000;">
     <div class="container">
       <p class="text-center"><img src="img/rc3_logo.png" style="width: 200px; height: 200px" alt="rc3 logo" /></p>
@@ -32,6 +33,7 @@
       <p class="text-center"><a class="btn btn-success btn-lg" style="background-color: #6800e7; color: #fff; border-color: #b239ff;" href="rc3">rC3 <span class="icon-icon_angel"></span> ENGELSYSTEM</a></p>
     </div>
   </div>
+  -->
   <div class="container">
     <div class="col-md-12 text-center">
       <h1>Online-Tool für Helfer- und Schichtplanung auf großen Events</h1>
