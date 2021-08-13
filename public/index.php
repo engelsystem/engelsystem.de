@@ -88,7 +88,7 @@
         </p>
         <h3 id="imprint">Impressum</h3>
         <p>
-          Verantwortlich für die Internetseite <i>http://engelsystem.de</i> ist:
+          Verantwortlich für die Internetseite <i>https://engelsystem.de</i> ist:
 				</p>
         <?php echo file_get_contents('../imprint.html'); ?>
       </div>
@@ -143,7 +143,7 @@
           </tr>
           <tr>
             <td class="text-right">35</td>
-            <td><a href="http://hackover.de/">Hackover 2014, Hannover</a></td>
+            <td><a href="https://hackover.de/">Hackover 2014, Hannover</a></td>
           </tr>
           <tr>
             <td class="text-right">41</td>

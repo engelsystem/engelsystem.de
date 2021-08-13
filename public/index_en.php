@@ -88,7 +88,7 @@
         </p>
         <h3 id="imprint">Imprint</h3>
         <p>
-          Responsible for the website <i>http://engelsystem.de</i>:
+          Responsible for the website <i>https://engelsystem.de</i>:
         </p>
         <?php echo file_get_contents('../imprint.html'); ?>
 			</div>
@@ -163,7 +163,7 @@
           </tr>
           <tr>
             <td class="text-right">35</td>
-            <td><a href="http://hackover.de/">Hackover 2014, Hannover</a></td>
+            <td><a href="https://hackover.de/">Hackover 2014, Hannover</a></td>
           </tr>
           <tr>
             <td class="text-right">-</td>
