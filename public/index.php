@@ -193,7 +193,10 @@ $pages += $config['links'][$page['language']] ?? [];
                         }
                         ?>
                         <p>
-                            <a class="btn <?php echo $class; ?>" href="<?php echo $content['button']['link']; ?>">
+                            <a class="btn <?php echo $class; ?>"
+                               href="<?php echo $content['button']['link']; ?>"
+                               target="_blank"
+                            >
                                 <?php if ($content['button']['angel'] ?? false) { ?>
                                     <span class="icon-icon_angel <?php echo $buttonClass; ?>"></span>
                                 <?php } ?>
