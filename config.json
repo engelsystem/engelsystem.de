@@ -11,18 +11,6 @@
       "subtitle": "Online-Tool für Helfer- und Schichtplanung auf großen Events",
       "content": [
         {
-          "size": 12,
-          "centered": true,
-          "cta": true,
-          "image": "/img/rC3-2021_logo.png",
-          "title": "Hilf uns bei der rC3-2021 und werde Engel!",
-          "button": {
-            "text": "rC3-2021 Engelsystem",
-            "link": "https://engelsystem.rc3.world/",
-            "angel": true
-          }
-        },
-        {
           "centered": true,
           "title": "Online-Tool für Helfer- und Schichtplanung auf großen Events",
           "content": "Organisiere deine Helfer in Teams, teile sie in Schichten ein oder lasse sie selbst bestimmen, wann und wo sie helfen wollen.",
@@ -73,18 +61,6 @@
       "languages": { "de": "/" },
       "subtitle": "online tool for coordinating helpers and work shifts on large events",
       "content": [
-        {
-          "size": 12,
-          "centered": true,
-          "cta": true,
-          "image": "/img/rC3-2021_logo.png",
-          "title": "Help us at the rC3-2021 and become an angel!",
-          "button": {
-            "text": "rC3-2021 Engelsystem",
-            "link": "https://engelsystem.rc3.world/",
-            "angel": true
-          }
-        },
         {
           "size": 12,
           "centered": true,
@@ -148,6 +124,7 @@
     {"name": "34C3 - 34. Chaos Communication Congress, Leipzig", "angels": 2387, "link": "https://events.ccc.de/congress/2017/wiki/Main_Page"},
     {"name": "35C3 - 35. Chaos Communication Congress, Leipzig", "angels": 4204, "link": "https://events.ccc.de/congress/2018/wiki/Main_Page"},
     {"name": "36C3 - 36. Chaos Communication Congress, Leipzig", "angels": 4683, "link": "https://events.ccc.de/congress/2019/wiki/index.php/Main_Page"},
-    {"name": "rC3 - remote Chaos Experience, Online", "angels": 710, "link": "https://links.rc3.world"}
+    {"name": "rC3 - remote Chaos Experience, Online", "angels": 710, "link": "https://links.rc3.world"},
+    {"name": "rC3-2021 - remote Chaos Experience 2021, Online", "angels": 484, "link": "https://links.rc3.world"}
   ]
 }
