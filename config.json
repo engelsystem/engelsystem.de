@@ -19,7 +19,7 @@
             "link": "https://github.com/engelsystem/engelsystem#readme",
             "angel": true
           },
-          "footer": "ab PHP 7.4 und MySQL >=5.7 oder MariaDB >=10.2.2"
+          "footer": "ab PHP >=7.4 und MySQL >=5.7.8 oder MariaDB >=10.2.2"
         },
         {
           "size": 6,
@@ -29,7 +29,7 @@
             "Auf Deutsch und Englisch (Erweiterbar)",
             "Skaliert problemlos auf tausende Helfer und zehntausende Schichtstunden",
             "Komplexe Schicht-Ansicht mit Filter",
-            "Importiere Schichten aus mehreren <a href=\"https://frab.cccv.de\">Frab</a>- oder <a href=\"https://pretalx.com\">pretalx</a>-Instanzen",
+            "Importiere Schichten aus mehreren <a href=\"https://frab.cccv.de\" target=\"_blank\">Frab</a>- oder <a href=\"https://pretalx.com\" target=\"_blank\">pretalx</a>-Instanzen",
             "iCal-Export für Schichten",
             "Anwesenheits-Management",
             "Belohnungssystem",
@@ -44,7 +44,7 @@
           "size": 6,
           "title": "Kontakt",
           "content": [
-            "Wenn du einen Softwarefehler entdeckt oder Probleme bei der Installation deines eigenen Engelsystems hast, öffne bitte einen Issue auf Github unter:\n<a href=\"https://github.com/engelsystem/engelsystem/issues\">github.com/engelsystem/engelsystem</a>",
+            "Wenn du einen Softwarefehler entdeckt oder Probleme bei der Installation deines eigenen Engelsystems hast, öffne bitte einen Issue auf GitHub unter:\n<a href=\"https://github.com/engelsystem/engelsystem/issues\" target=\"_blank\">github.com/engelsystem/engelsystem</a>",
             "Wenn du ein Engelsystem für ein Chaos-Event benötigst, sende eine E-Mail an:\n<a href=\"mailto:contact@engelsystem.de\">contact@engelsystem.de</a>"
           ]
         },
@@ -52,6 +52,13 @@
           "size": 6,
           "title": "Referenzen",
           "reference": true
+        },
+        {
+          "size": 6,
+          "title": "Dokumentation",
+          "content": [
+            "Weitere Dokumentation findest du unter <a href=\"https://engelsystem.de/doc/\">engelsystem.de/doc</a> und auf <a href=\"https://github.com/engelsystem/engelsystem#readme\" target=\"_blank\">GitHub</a>."
+          ]
         }
       ]
     },
@@ -71,7 +78,7 @@
             "link": "https://github.com/engelsystem/engelsystem#readme",
             "angel": true
           },
-          "footer": "PHP >=7.4 and MySQL >=5.7 or MariaDB >=10.2.2"
+          "footer": "requires PHP >=7.4 and MySQL >=5.7.8 or MariaDB >=10.2.2"
         },
         {
           "title": "Features",
@@ -80,7 +87,7 @@
             "Available in English and German (translatable)",
             "Supports any event size: from a few dozen helpers to thousands",
             "Comprehensive shift overview with filters",
-            "Import shifts from multiple instances of <a href=\"https://frab.cccv.de\">Frab</a> or <a href=\"https://pretalx.com\">pretalx</a>",
+            "Import shifts from multiple instances of <a href=\"https://frab.cccv.de\" target=\"_blank\">Frab</a> or <a href=\"https://pretalx.com\" target=\"_blank\">pretalx</a>",
             "Export shifts to iCal",
             "Presence management",
             "Reward system",
@@ -94,13 +101,19 @@
         {
           "title": "Contact",
           "content": [
-            "If you find a software bug, or have a problem with installing your own angelsystem, please open an issue on Github:\n<a href=\"https://github.com/engelsystem/engelsystem/issues\">github.com/engelsystem/engelsystem</a>",
+            "If you find a software bug, or have a problem with installing your own angelsystem, please open an issue on GitHub:\n<a href=\"https://github.com/engelsystem/engelsystem/issues\" target=\"_blank\">github.com/engelsystem/engelsystem</a>",
             "If you need an angelsystem for a Chaos event, please e-mail:\n<a href=\"mailto:contact@engelsystem.de\">contact@engelsystem.de</a>"
           ]
         },
         {
           "title": "References",
           "reference": true
+        },
+        {
+          "title": "Documentation",
+          "content": [
+            "More documentation can be found at <a href=\"https://engelsystem.de/doc/\">engelsystem.de/doc</a> and on <a href=\"https://github.com/engelsystem/engelsystem#readme\" target=\"_blank\">GitHub</a>."
+          ]
         }
       ]
     }
