@@ -171,7 +171,7 @@ $pages += $config['links'][$page['language']] ?? [];
                                     <th scope="row" class="text-end"><?php echo $reference['angels'] ?? '-' ?></th>
                                     <td>
                                         <?php if (isset($reference['link'])) { ?>
-                                            <a href="<?php echo $reference['link'] ?>"><?php echo $reference['name'] ?></a>
+                                            <a href="<?php echo $reference['link'] ?>" target="_blank"><?php echo $reference['name'] ?></a>
                                         <?php } else { ?>
                                             <?php echo $reference['name'] ?>
                                         <?php } ?>
