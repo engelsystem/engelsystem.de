@@ -66,7 +66,13 @@ External navigation link:
 docker run -it --rm \
   -v "$PWD":/var/www/ \
   -v "$PWD/public":/var/www/html/ \
+  -p 8080:80 \
   --name engelsystem.de \
   php:apache \
   sh -c 'a2enmod rewrite && docker-php-entrypoint apache2-foreground'
 ```
+
+The page can now be opened by visiting [localhost:8080](http://localhost:8080).
+
+> When the container exits with `AH00170: caught SIGWINCH, shutting down gracefully` you have resized your terminal.
+> That triggers the SIGWINCH signal which gets relayed to apache2 and there interpreted as a shutdown command.
