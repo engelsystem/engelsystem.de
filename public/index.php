@@ -112,6 +112,7 @@ $pages += $config['links'][$page['language']] ?? [];
             foreach ($page['content'] ?? [] as $content) {
                 $cta = $content['cta'] ?? false;
                 $class = 'col-md-' . ($content['size'] ?? $page['size'] ?? 12);
+                $imageWide = $content['image_wide'] ?? false;
 
                 if ($content['centered'] ?? false) {
                     $class .= ' text-center';
@@ -119,6 +120,10 @@ $pages += $config['links'][$page['language']] ?? [];
 
                 if ($cta) {
                     $class .= ' p-3 m-0 bg-dark text-light';
+                }
+
+                if ($imageWide) {
+                    $class .= ' img-wide';
                 }
                 ?>
 

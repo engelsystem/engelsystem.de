@@ -12,3 +12,7 @@
 img.cta {
     max-width: 20%;
 }
+
+.img-wide img.cta {
+    max-width: 95%;
+}
