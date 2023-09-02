@@ -11,19 +11,6 @@
       "subtitle": "Online-Tool für Helfer- und Schichtplanung auf großen Events",
       "content": [
         {
-          "size": 12,
-          "centered": true,
-          "cta": true,
-          "image": "/img/cccamp23_logo.png",
-          "image_wide": true,
-          "title": "Hilf uns beim Chaos Communication Congress 2023 und werde Engel!",
-          "button": {
-            "text": "CCCamp-2023 Engelsystem",
-            "link": "https://engelsystem.events.ccc.de",
-            "angel": true
-          }
-        },
-        {
           "centered": true,
           "title": "Online-Tool für Helfer- und Schichtplanung auf großen Events",
           "content": "Organisiere deine Helfer in Teams, teile sie in Schichten ein oder lasse sie selbst bestimmen, wann und wo sie helfen wollen.",
@@ -81,19 +68,6 @@
       "languages": { "de": "/" },
       "subtitle": "online tool for coordinating helpers and work shifts on large events",
       "content": [
-        {
-          "size": 12,
-          "centered": true,
-          "cta": true,
-          "image": "/img/cccamp23_logo.png",
-          "image_wide": true,
-          "title": "Help us at the Chaos Communication Congress 2023 and become an angel!",
-          "button": {
-            "text": "CCCamp-2023 Engelsystem",
-            "link": "https://engelsystem.events.ccc.de",
-            "angel": true
-          }
-        },
         {
           "size": 12,
           "centered": true,
