@@ -32,7 +32,7 @@
             "link": "https://github.com/engelsystem/engelsystem#readme",
             "angel": true
           },
-          "footer": "ab PHP >=7.4 und MySQL >=5.7.8 oder MariaDB >=10.2.2"
+          "footer": "ab PHP >=8.1 und MySQL >=5.7.8 oder MariaDB >=10.2.2"
         },
         {
           "size": 6,
@@ -104,7 +104,7 @@
             "link": "https://github.com/engelsystem/engelsystem#readme",
             "angel": true
           },
-          "footer": "requires PHP >=7.4 and MySQL >=5.7.8 or MariaDB >=10.2.2"
+          "footer": "requires PHP >=8.1 and MySQL >=5.7.8 or MariaDB >=10.2.2"
         },
         {
           "title": "Features",
