@@ -7,6 +7,9 @@
 
     mask: url(../img/angel.svg) no-repeat 50% 50%;
     mask-size: cover;
+
+    -webkit-mask-image: url(../img/angel.svg);
+    -webkit-mask-size: cover;
 }
 
 img.cta {
