@@ -11,6 +11,19 @@
       "subtitle": "Online-Tool für Helfer- und Schichtplanung auf großen Events",
       "content": [
         {
+          "size": 12,
+          "centered": true,
+          "cta": true,
+          "image": "/img/37c3-logo.svg",
+          "image_wide": true,
+          "title": "Hilf uns beim 37C3 und werde Engel!",
+          "button": {
+            "text": "37C3 Engelsystem",
+            "link": "https://engel.events.ccc.de",
+            "angel": true
+          }
+        },
+        {
           "centered": true,
           "title": "Online-Tool für Helfer- und Schichtplanung auf großen Events",
           "content": "Organisiere deine Helfer in Teams, teile sie in Schichten ein oder lasse sie selbst bestimmen, wann und wo sie helfen wollen.",
@@ -68,6 +81,19 @@
       "languages": { "de": "/" },
       "subtitle": "online tool for coordinating helpers and work shifts on large events",
       "content": [
+        {
+          "size": 12,
+          "centered": true,
+          "cta": true,
+          "image": "/img/37c3-logo.svg",
+          "image_wide": true,
+          "title": "Help us at the 37C3 and become an angel!",
+          "button": {
+            "text": "37C3 Engelsystem",
+            "link": "https://engel.events.ccc.de",
+            "angel": true
+          }
+        },
         {
           "size": 12,
           "centered": true,
@@ -136,9 +162,13 @@
     {"name": "Volunteer Program, MozFest 2017, London", "angels": "~100", "link": "https://mozillafestival.org/"},
     {"name": "34C3 - 34. Chaos Communication Congress, Leipzig", "angels": 2387, "link": "https://events.ccc.de/congress/2017/wiki/index.php/Main_Page"},
     {"name": "35C3 - 35. Chaos Communication Congress, Leipzig", "angels": 4204, "link": "https://events.ccc.de/congress/2018/wiki/index.php/Main_Page"},
+    {"name": "cccamp19 - Chaos Communication Camp 2019", "angels": 1836, "link": "https://events.ccc.de/camp/2019/wiki/Main_Page"},
     {"name": "36C3 - 36. Chaos Communication Congress, Leipzig", "angels": 4683, "link": "https://events.ccc.de/congress/2019/wiki/index.php/Main_Page"},
     {"name": "rC3 - remote Chaos Experience, Online", "angels": 710, "link": "https://links.rc3.world/2020/"},
     {"name": "rC3-2021 nowhere - remote Chaos Experience 2021, Online", "angels": 484, "link": "https://links.rc3.world/2021/"},
-    {"name": "Easterhegg 20 - Back to root (2023), Hamburg", "angels": 335, "link": "https://eh20.easterhegg.eu/"}
+    {"name": "Easterhegg 20 - Back to root (2023), Hamburg", "angels": 335, "link": "https://eh20.easterhegg.eu/"},
+    {"name": "GPN21 - 21. Gulaschprogrammiernacht (2023), Karlsruhe", "angels": 573, "link": "https://entropia.de/GPN21"},
+    {"name": "cccamp23 - Chaos Communication Camp 2023", "angels": 42, "link": "https://events.ccc.de/camp/2023/infos/"},
+    {"name": "MRMCD 2023 - Meta Rhein Main Community Days 2023, Darmstadt", "angels": 97, "link": "https://2023.mrmcd.net/"}
   ]
 }
