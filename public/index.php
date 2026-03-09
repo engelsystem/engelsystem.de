@@ -171,7 +171,7 @@ $pages += $config['links'][$page['language']] ?? [];
                             </tr>
                             </thead>
                             <tbody>
-                            <?php foreach (array_reverse($config['references']) as $reference) { ?>
+                            <?php foreach (array_reverse($config['references']) as $reference) { if (!$reference) { continue; } ?>
                                 <tr>
                                     <th scope="row" class="text-end"><?php echo $reference['angels'] ?? '-' ?></th>
                                     <td>
