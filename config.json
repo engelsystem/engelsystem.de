@@ -25,11 +25,11 @@
           "size": 6,
           "title": "Features",
           "list": [
-            "Verwaltung von Helfern, Teams, Räumen, Schichten, News und Meetings",
+            "Verwaltung von Helfern, Teams, Orten, Schichten, News und Meetings",
             "Auf Deutsch und Englisch (Erweiterbar)",
             "Skaliert problemlos auf tausende Helfer und zehntausende Schichtstunden",
-            "Komplexe Schicht-Ansicht mit Filter",
-            "Importiere Schichten aus mehreren <a href=\"https://frab.cccv.de\" target=\"_blank\">Frab</a>- oder <a href=\"https://pretalx.com\" target=\"_blank\">pretalx</a>-Instanzen",
+            "Komplexe Schicht-Ansicht mit Filtern",
+            "Importiere Schichten aus mehreren <a href=\"https://pretalx.com\" target=\"_blank\">pretalx</a>- oder <a href=\"https://frab.cccv.de\" target=\"_blank\">Frab</a>-Instanzen",
             "iCal-Export für Schichten",
             "Anwesenheits-Management",
             "Belohnungssystem",
@@ -83,11 +83,11 @@
         {
           "title": "Features",
           "list": [
-            "Manage helpers, teams, rooms, shifts, news and meetings",
+            "Manage helpers, teams, locations, shifts, news and meetings",
             "Available in English and German (translatable)",
             "Supports any event size: from a few dozen helpers to thousands",
             "Comprehensive shift overview with filters",
-            "Import shifts from multiple instances of <a href=\"https://frab.cccv.de\" target=\"_blank\">Frab</a> or <a href=\"https://pretalx.com\" target=\"_blank\">pretalx</a>",
+            "Import shifts from multiple instances of <a href=\"https://pretalx.com\" target=\"_blank\">pretalx</a> or <a href=\"https://frab.cccv.de\" target=\"_blank\">Frab</a>",
             "Export shifts to iCal",
             "Presence management",
             "Reward system",
